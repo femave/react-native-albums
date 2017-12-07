@@ -1,8 +1,8 @@
 'use strict';
 
-import React from 'react'
-import { Text, View, StyleSheet } from 'react-native'
-import styles from './style'
+import React from 'react';
+import { Text, View, StyleSheet } from 'react-native';
+import styles from './style';
 
 const Header = props => {
     const { textStyle, viewStyle } = styles;
